@@ -78,23 +78,16 @@ start_1 : "Thanks for having me in {0}.\n{1} is alive.\n\nFor any assistance or 
 start_2 : "┏━━▰»»•@ShivanshuDeo•««▰━━┓
 
     Hey There •🎙
-    I'm CRUELLA
-    ━━━━━━━━━━━━
+    I'm {0}\n\n━━━━━━━━━━━━
   𓆩🖤ꜱ⃟нͥινͣαͫиѕнυ🖤𓆪 
     Is Now A Famous
     & Safe Bot For Playing
-    Music In Many Groups
-    ━━━━━━━━━━
+    Music In Many Groups\n\n━━━━━━━━━━
     You Can Play Music
     From Your Spotify
     Resso, AppleMusic &
-    Soundcloud Too
-    ━━━━━━━━━━━━
- ▰▰▰▰▰▰▰▰▰▰▰▰▰
-        𓆩𝕷𝖔𝖛𝖊 𝕭𝖎𝖗𝖉𝖘𓆪 
-▰▰▰▰▰▰▰▰▰▰▰▰▰
-
-╘═════════════════╛"
+    Soundcloud Too\n\n━━━━━━━━━━━━\n\n▰▰▰▰▰▰▰▰▰▰▰▰▰
+        𓆩{0}𓆪 \n\n▰▰▰▰▰▰▰▰▰▰▰▰▰\n\n╘═════════════════╛"
 start_3 : "Welcome To {0}\n\nI don't need any **admin permission** to work ( until asked for ).\n\nAssistant Username:- @{1}\nAssistant ID:- {2}"
 start_4 : "{0}'s Owner[{1}] has just joined your chat."
 start_5 : "A member of {0}'s Sudo User[{1}] has just joined your chat."
