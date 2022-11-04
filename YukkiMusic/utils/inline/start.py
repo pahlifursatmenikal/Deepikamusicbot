@@ -25,6 +25,10 @@ def start_pannel(_):
             InlineKeyboardButton(
                 text=_["S_B_2"], callback_data="settings_helper"
             ),
+               InlineKeyboardButton(
+                text=_["S_B_9"],
+                 url=f"https://t.me/+HV1MWrssifhkOTk1"
+            ),
         ],
     ]
     if SUPPORT_CHANNEL and SUPPORT_GROUP:
