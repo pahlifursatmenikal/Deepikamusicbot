@@ -75,6 +75,9 @@ def help_back_markup(_):
                 InlineKeyboardButton(
                     text=_["CLOSE_BUTTON"], callback_data=f"close"
                 ),
+                InlineKeyboardButton(
+                    text=_["S_B_9"], url="https://telegra.ph/Managment-Bot-11-02"
+                ),
             ]
         ]
     )
