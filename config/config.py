@@ -168,41 +168,38 @@ autoclean = []
 
 
 # Images
-START_IMG_URL = getenv ("START_IMG_URL", "https://graph.org/file/8eccfc58d0db856327785.jpg")
+START_IMG_URL = getenv ("START_IMG_URL", "https://graph.org/file/2f2af0f8e98e6fa883a73.jpg")
 
-PING_IMG_URL = getenv(
-    "PING_IMG_URL",
-    "assets/Ping.jpeg",
-)
+PING_IMG_URL = getenv ("PING_IMG_URL", "")
 
 PLAYLIST_IMG_URL = getenv(
     "PLAYLIST_IMG_URL",
-    "assets/Playlist.jpeg",
+    "https://graph.org/file/39929d32c60eac2b5b558.jpg",
 )
 
 GLOBAL_IMG_URL = getenv(
     "GLOBAL_IMG_URL",
-    "assets/Global.jpeg",
+    "https://graph.org/file/c8ebdb7b35110d2f3006a.jpg",
 )
 
 STATS_IMG_URL = getenv(
     "STATS_IMG_URL",
-    "assets/Stats.jpeg",
+    "https://graph.org/file/d9d0a0aebf44a8f6fc473.jpg",
 )
 
 TELEGRAM_AUDIO_URL = getenv(
     "TELEGRAM_AUDIO_URL",
-    "assets/Audio.jpeg",
+    "https://graph.org/file/3e749c585bb66ce171cd8.jpg",
 )
 
 TELEGRAM_VIDEO_URL = getenv(
     "TELEGRAM_VIDEO_URL",
-    "assets/Video.jpeg",
+    "https://graph.org/file/b76e4ca521a7fad967a17.jpg",
 )
 
 STREAM_IMG_URL = getenv(
     "STREAM_IMG_URL",
-    "assets/Stream.jpeg",
+    "https://graph.org/file/fc1fd96e1051e395295c1.jpg",
 )
 
 SOUNCLOUD_IMG_URL = getenv(
@@ -212,7 +209,7 @@ SOUNCLOUD_IMG_URL = getenv(
 
 YOUTUBE_IMG_URL = getenv(
     "YOUTUBE_IMG_URL",
-    "assets/Youtube.jpeg",
+    "https://graph.org/file/2f2af0f8e98e6fa883a73.jpg",
 )
 
 SPOTIFY_ARTIST_IMG_URL = getenv(
