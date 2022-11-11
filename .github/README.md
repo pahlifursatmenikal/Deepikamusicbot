@@ -24,7 +24,7 @@
 
 ━━━━━━━━━━━━━━━━━━━━
 <p align="center">
-  <img src="https://github.com/TheChampu/ChampuMusicBot/blob/master/TheChampu.gif">
+  <img src="https://github.com/TheChampu/ChampuMusic/blob/master/TheChampu.gif">
 </p>
 
 <p align="center">
