@@ -24,7 +24,7 @@ _**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [ғᴀʟʟᴇɴ ✘ 
 
 ━━━━━━━━━━━━━━━━━━━━
 <p align="center">
-  <img src="https://github.com/TheAnonymous2005/FallenRobot/blob/master/FallenRobot/resources/fglitch.gif">
+  <img src="https://graph.org/file/4a24c936d6789ce9af700.mp4">
 </p>
 
 <p align="center">
