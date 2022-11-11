@@ -19,7 +19,6 @@
 <a href="https://www.python.org/"> <img src="https://img.shields.io/badge/Written%20in-Python-skyblue?style=for-the-badge&logo=python" alt="Python" /> </a>
 <a href="https://pypi.org/project/Telethon/"> <img src="https://img.shields.io/pypi/v/telethon?color=white&label=telethon&logo=python&logoColor=blue&style=for-the-badge" /></a>
 <a href="https://pypi.org/project/Pyrogram/"> <img src="https://img.shields.io/pypi/v/pyrogram?color=white&label=pyrogram&logo=python&logoColor=blue&style=for-the-badge" /></a>
-<a href="https://github.com/TheChampu/ChampuMusic"> <img src="https://img.shields.io/github/repo-size/TheChampu/ChampuMusic?color=skyblue&logo=github&logoColor=blue&style=for-the-badge" /></a>
 <a href="https://github.com/TheChampu/ChampuMusic/commits/"> <img src="https://img.shields.io/github/last-commit/TheChampu/ChampuMusic?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
 </p>
 
