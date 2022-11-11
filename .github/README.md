@@ -55,7 +55,7 @@ Checkout [Docs](https://notreallyshikhar.gitbook.io/yukkimusicbot/deployment/loc
 </p>
 
 
-━━━━━━━━━━━━━━━━━━━━
-ɪғ ʏᴏᴜ ᴄᴀɴ ᴄʀʏ ғᴏʀ ᴍᴇ... 
+━━━━━━━━━━━━━━━━━━━━             
+ɪғ ʏᴏᴜ ᴄᴀɴ ᴄʀʏ ғᴏʀ ᴍᴇ...        
      ᴛʀᴜsᴛ ᴍᴇ ɪ ᴄᴀɴ ᴅɪᴇ ғᴏʀ ᴜʜʜ!!
 ━━━━━━━━━━━━━━━━━━━━
