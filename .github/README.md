@@ -1,14 +1,15 @@
+
 ━━━━━━━━━━━━━━━━━━━━
 
 <h2 align="center">
-    ──「 ❥𝕮𝖍𝖆𝖒𝖕𝖚 ᭄_🖤⚜☄ 」──
-</h2>
+    「 𝕮𝖍𝖆𝖒𝖕𝖚 」</h2>
 
 <p align="center">
   <img src="https://github.com/TheChampu/champu/blob/master/%F0%9F%96%A4%EA%9C%B1%E2%83%9F%D0%BD%CD%A5%CE%B9%CE%BD%CD%A3%CE%B1%CD%AB%D0%B8%D1%95%D0%BD%CF%85%F0%9F%96%A4.gif">
 </p>
 
-_**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [❥𝕮𝖍𝖆𝖒𝖕𝖚 ᭄_🖤⚜☄](https://t.me/champumusicbot)**_
+ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs 
+[❥𝕮𝖍𝖆𝖒𝖕𝖚 ᭄_🖤⚜☄](https://t.me/champumusicbot)
 ━━━━━━━━━━━━━━━━━━━━
 
 <p align="center">
