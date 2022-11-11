@@ -23,9 +23,8 @@ _**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [ғᴀʟʟᴇɴ ✘ 
 </p>
 
 ━━━━━━━━━━━━━━━━━━━━
-
 <p align="center">
-  <img src="https://telegra.ph/file/7bd111132fce009e4605e.jpg">
+  <img src="https://github.com/TheAnonymous2005/FallenRobot/blob/master/FallenRobot/resources/fglitch.gif">
 </p>
 
 <p align="center">
@@ -38,8 +37,10 @@ Checkout [Docs](https://notreallyshikhar.gitbook.io/yukkimusicbot/deployment/loc
 ᴛʜᴀɴᴋs ᴛᴏ ʏᴜᴋᴋɪᴛᴇᴀᴍ 
 <a href="https://github.com/TeamYukki"> <img src="https://img.shields.io/badge/TeamYukki-black?style=for-the-badge&logo=github" alt="TeamYukki" /> </a>
 ━━━━━━━━━━━━━━━━━━━━
+
 <h3 align="center">
     ─「 🖤ꜱ⃟нͥινͣαͫиѕнυ🖤 」─
+</h3>
 
 <p align="center">
 <a href="https://telegram.me/ShivanshuDeo"><img src="https://img.shields.io/badge/-Owner-blue.svg?style=for-the-badge&logo=Telegram"></a>
