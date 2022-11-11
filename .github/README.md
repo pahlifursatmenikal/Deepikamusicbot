@@ -35,7 +35,7 @@ _**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [ғᴀʟʟᴇɴ ✘ 
 Checkout [Docs](https://notreallyshikhar.gitbook.io/yukkimusicbot/deployment/local-hosting-or-vps) for Detailed Explanation on VPS Deploy
  
 <a href="https://github.com/TeamYukki"> <img src="https://img.shields.io/badge/TeamYukki-black?style=for-the-badge&logo=github" alt="TeamYukki" /> </a>
-ᴛʜᴀɴᴋs ᴛᴏ ᴛᴇᴀᴍʏᴜᴋᴋɪ
+</h3> ᴛʜᴀɴᴋs ᴛᴏ ᴛᴇᴀᴍʏᴜᴋᴋɪ
 ━━━━━━━━━━━━━━━━━━━━
 
 <h3 align="center">
