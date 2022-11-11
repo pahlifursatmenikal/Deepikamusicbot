@@ -12,19 +12,19 @@ _**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [ғᴀʟʟᴇɴ ✘ 
 ━━━━━━━━━━━━━━━━━━━━
 
 <p align="center">
-<a href="https://github.com/TheAnonymous2005/FallenRobot/stargazers"><img src="https://img.shields.io/github/stars/TheAnonymous2005/FallenRobot?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
-<a href="https://github.com/TheAnonymous2005/FallenRobot/network/members"> <img src="https://img.shields.io/github/forks/TheAnonymous2005/FallenRobot?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
-<a href="https://github.com/TheAnonymous2005/FallenRobot/blob/master/LICENSE"> <img src="https://img.shields.io/badge/License-MIT-blueviolet?style=for-the-badge" alt="License" /> </a>
+<a href="https://github.com/TheChampu/champu/stargazers"><img src="https://img.shields.io/github/stars/TheChampu/champu?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
+<a href="https://github.com/TheChampu/champu/network/members"> <img src="https://img.shields.io/github/forks/TheChampu/champu?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
+<a href="https://github.com/TheChampu/champu/blob/master/LICENSE"> <img src="https://img.shields.io/badge/License-MIT-blueviolet?style=for-the-badge" alt="License" /> </a>
 <a href="https://www.python.org/"> <img src="https://img.shields.io/badge/Written%20in-Python-skyblue?style=for-the-badge&logo=python" alt="Python" /> </a>
 <a href="https://pypi.org/project/Telethon/"> <img src="https://img.shields.io/pypi/v/telethon?color=white&label=telethon&logo=python&logoColor=blue&style=for-the-badge" /></a>
 <a href="https://pypi.org/project/Pyrogram/"> <img src="https://img.shields.io/pypi/v/pyrogram?color=white&label=pyrogram&logo=python&logoColor=blue&style=for-the-badge" /></a>
-<a href="https://github.com/TheAnonymous2005/FallenRobot"> <img src="https://img.shields.io/github/repo-size/TheAnonymous2005/FallenRobot?color=skyblue&logo=github&logoColor=blue&style=for-the-badge" /></a>
-<a href="https://github.com/TheAnonymous2005/FallenRobot/commits/AnonymousR1025"> <img src="https://img.shields.io/github/last-commit/TheAnonymous2005/FallenRobot?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
+<a href="https://github.com/TheChampu/champu"> <img src="https://img.shields.io/github/repo-size/TheChampu/champu?color=skyblue&logo=github&logoColor=blue&style=for-the-badge" /></a>
+<a href="https://github.com/TheChampu/champu/commits"> <img src="https://img.shields.io/github/last-commit/TheChampu/champu?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
 </p>
 
 ━━━━━━━━━━━━━━━━━━━━
 <p align="center">
-  <img src="https://graph.org/file/4a24c936d6789ce9af700.mp4">
+  <img src="https://github.com/TheChampu/champu/blob/master/TheChampu.gif">
 </p>
 
 <p align="center">
