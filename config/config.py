@@ -144,14 +144,6 @@ STRING3 = getenv("STRING_SESSION3", None)
 STRING4 = getenv("STRING_SESSION4", None)
 STRING5 = getenv("STRING_SESSION5", None)
 
-
-# ░█████╗░██╗░░██╗░█████╗░███╗░░░███╗██████╗░
-# ██╔══██╗██║░░██║██╔══██╗████╗░████║██╔══██╗
-# ██║░░╚═╝███████║███████║██╔████╔██║██████╔╝
-# ██║░░██╗██╔══██║██╔══██║██║╚██╔╝██║██╔═══╝░
-# ╚█████╔╝██║░░██║██║░░██║██║░╚═╝░██║██║░░░░░
-# ░╚════╝░╚═╝░░╚═╝╚═╝░░╚═╝╚═╝░░░░░╚═╝╚═╝░░░░░
-
 ### DONT TOUCH or EDIT codes after this line
 BANNED_USERS = filters.user()
 YTDOWNLOADER = 1
@@ -167,7 +159,7 @@ autoclean = []
 
 
 # Images
-START_IMG_URL = getenv("START_IMG_URL", None)
+START_IMG_URL = getenv("START_IMG_URL", "https://te.legra.ph/file/ff391530ed36bce90ec92.jpg")
 
 PING_IMG_URL = getenv(
     "PING_IMG_URL",
