@@ -39,7 +39,7 @@ Checkout [Docs](https://notreallyshikhar.gitbook.io/yukkimusicbot/deployment/loc
 ━━━━━━━━━━━━━━━━━━━━
 
 <h3 align="center">
-    ─「 🖤ꜱ⃟нͥινͣαͫиѕнυ🖤 」─
+    ─「 🖤ꜱнͥινͣαͫиѕнυ🖤 」─
 </h3>
 
 <p align="center">
