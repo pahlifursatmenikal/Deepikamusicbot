@@ -32,7 +32,7 @@
 </p>
 ➣𝐕𝐏𝐒 ᴅᴇᴘʟᴏʏᴍᴇɴᴛ ᴍᴇᴛʜᴏᴅ
 
-Checkout [Docs](https://notreallyshikhar.gitbook.io/yukkimusicbot/deployment/local-hosting-or-vps) for Detailed Explanation on VPS Deploy
+Checkout [Docs](https://thechampu.gitbook.io/champu-music-bot-docs/) for Detailed Explanation on VPS Deploy
  
 <a href="https://github.com/TeamYukki"> <img src="https://img.shields.io/badge/TeamYukki-black?style=for-the-badge&logo=github" alt="TeamYukki" /> </a>
 </h3> ᴛʜᴀɴᴋs ᴛᴏ ᴛᴇᴀᴍʏᴜᴋᴋɪ
