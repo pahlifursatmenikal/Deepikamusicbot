@@ -44,7 +44,9 @@ Checkout [Docs](https://thechampu.gitbook.io/champu-music-bot-docs/) for Detaile
 
 <p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/TheChampu/ChampuMusic"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
+       ─「 𝗦𝗥𝗧𝗜𝗡𝗚 𝗦𝗘𝗦𝗦𝗜𝗢𝗡  」─
 
+<p align="center"><a href="https://replit.com/@shivanshudeo/Champu"> <img src="https://img.shields.io/badge/String%20Session-black?style=for-the-badge&logo=replit" width="220" height="38.45"/></a></p>
 ━━━━━━━━━━━━━━━━━━━━
 
 <h3 align="center">
